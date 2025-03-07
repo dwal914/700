@@ -1,0 +1,3 @@
+Please explain Newton's second law of thermodynamics.
+Why is the static coefficient of friction different to the dynamic coefficient of friction?
+What makes a static system indeterminate? Can an indeterminate system be stable?
